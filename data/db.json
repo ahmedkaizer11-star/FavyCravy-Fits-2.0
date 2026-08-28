@@ -1,0 +1,1081 @@
+{
+  "products": [
+    {
+      "id": "prod-1787875131811",
+      "name": "Men’s Short-Sleeve Printed Resort Shirt",
+      "slug": "men-s-short-sleeve-printed-resort-shirt-637",
+      "description": "Crafted with premium cotton yarn, double-needle reinforced stitching, and tailored drape.",
+      "shortDescription": "55% Cotton / 45% Linen | 125–130 GSM | Sky Blue | Mediterranean Coastal Print | Breathable Lightweight Fabric | Relaxed Fit | Cuban Collar | Short Sleeve",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "",
+      "price": 0,
+      "salePrice": 490,
+      "sku": "FCF-SS05",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787890254509-263235361.jpg"
+      ],
+      "thumbnail": "/uploads/fcf-1787890254509-263235361.jpg",
+      "colors": [
+        "Sky Blue / Powder Blue"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "Cotton-Linen Blend",
+      "features": [
+        "Lightweight and breathable",
+        "Cotton-linen blend for a soft yet naturally airy feel",
+        "Coastal/Mediterranean landscape artwork",
+        "Sky-blue summer base",
+        "Statement all-over digital print",
+        "Cuban/camp collar",
+        "Short sleeves",
+        "Relaxed contemporary fit",
+        "Button-front closure",
+        "Comfortable for hot and humid weather",
+        "Strong vacation/resort aesthetic",
+        "Easy to pair with cream, white, beige or khaki trousers",
+        "Ideal for beach vacations, resorts, cruises, summer parties, brunches and travel."
+      ],
+      "tags": [
+        "menswear",
+        "favy-cravy"
+      ],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-08-27T23:58:51.811Z",
+      "updatedAt": "2026-08-28T04:34:18.982Z"
+    },
+    {
+      "id": "prod-1787874621699",
+      "name": "Men’s Short-Sleeve Resort Collar Shirt",
+      "slug": "men-s-short-sleeve-resort-collar-shirt-674",
+      "description": "Crafted with premium cotton yarn, double-needle reinforced stitching, and tailored drape.",
+      "shortDescription": "70% Cotton / 30% Linen | 135 GSM ± 5 | Sage/Olive Green | Solid | Breathable Lightweight Fabric | Relaxed Fit | Cuban Collar | Short Sleeve",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "",
+      "price": 0,
+      "salePrice": 490,
+      "sku": "FCF-SS04",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787891152853-259205370.png"
+      ],
+      "thumbnail": "/uploads/fcf-1787891152853-259205370.png",
+      "colors": [
+        "Sage Green / Muted Olive Green"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "Cotton-Linen Blend Recommended For This Design for this design",
+      "features": [
+        "Lightweight summer fabric",
+        "Breathable and airy",
+        "Cotton softness + linen's natural airflow",
+        "Natural, slightly textured appearance",
+        "Comfortable in warm/humid weather",
+        "Relaxed resort-inspired silhouette",
+        "Modern Cuban/camp collar",
+        "Short sleeves for increased ventilation",
+        "Clean solid-color aesthetic",
+        "Button-front closure",
+        "Chest patch pocket",
+        "Easy to pair with cream, off-white, beige, khaki or light-grey trousers",
+        "Suitable for resort wear, vacations, brunches, casual evenings and smart-casual outfits."
+      ],
+      "tags": [
+        "menswear",
+        "favy-cravy"
+      ],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-08-27T23:50:21.699Z",
+      "updatedAt": "2026-08-28T04:26:04.670Z"
+    },
+    {
+      "id": "prod-1787873782602",
+      "name": "Men’s Printed Short-Sleeve Resort Shirt",
+      "slug": "men-s-printed-short-sleeve-resort-shirt-201",
+      "description": "Crafted with premium cotton yarn, double-needle reinforced stitching, and tailored drape.",
+      "shortDescription": "100% Cotton | 130 GSM ± 5 | Cream/Ecru Base | Multicolor Vacation Print | Breathable Lightweight Fabric | Relaxed Fit | Cuban Collar | Short Sleeve",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "",
+      "price": 0,
+      "salePrice": 490,
+      "sku": "FCF-SS03",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787891328405-390669624.jpg"
+      ],
+      "thumbnail": "/uploads/fcf-1787891328405-390669624.jpg",
+      "colors": [
+        "Cream / Off-White / Ecru"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "100% Cotton - Lightweight woven shirting / Printed Poplin",
+      "features": [
+        "Lightweight summer fabric",
+        "Breathable and comfortable for warm weather",
+        "Cream/off-white base for a clean resort aesthetic",
+        "Colorful vacation-inspired all-over print",
+        "Cuban/camp collar",
+        "Short sleeves",
+        "Relaxed contemporary fit",
+        "Button-front construction",
+        "Soft, comfortable hand feel",
+        "Easy to pair with cream, beige, white, khaki or light-grey trousers",
+        "Ideal for vacations, beach trips, resorts, brunches, travel and casual summer evenings."
+      ],
+      "tags": [
+        "menswear",
+        "favy-cravy"
+      ],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-08-27T23:36:22.602Z",
+      "updatedAt": "2026-08-28T04:34:41.745Z"
+    },
+    {
+      "id": "prod-1787873152389",
+      "name": "Men’s Short-Sleeve Geometric Resort Shirt",
+      "slug": "men-s-short-sleeve-geometric-resort-shirt-512",
+      "description": "Crafted with premium cotton yarn, double-needle reinforced stitching, and tailored drape.",
+      "shortDescription": "100% Cotton • 130–140 GSM • Light Grey & White • Geometric Pattern • Breathable Summer Fabric • Relaxed Fit • Cuban Collar",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "",
+      "price": 0,
+      "salePrice": 490,
+      "sku": "FCF-SS01",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787891420606-700883391.jpg"
+      ],
+      "thumbnail": "/uploads/fcf-1787891420606-700883391.jpg",
+      "colors": [
+        "Light Grey / Stone Grey"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "100% Cotton | Lightweight woven shirting",
+      "features": [
+        "Summer-friendly lightweight construction",
+        "Breathable fabric for warm and humid weather",
+        "Soft, comfortable hand feel",
+        "Eye-catching geometric vertical pattern",
+        "Modern Cuban/resort collar",
+        "Relaxed contemporary silhouette",
+        "Short sleeves for improved airflow",
+        "Button-front closure",
+        "Lightweight drape without looking overly thin",
+        "Easy to style with white, cream, beige or khaki trousers",
+        "Suitable for vacations, resort wear, brunches, casual outings and evening events"
+      ],
+      "tags": [
+        "menswear",
+        "favy-cravy"
+      ],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-08-27T23:25:52.389Z",
+      "updatedAt": "2026-08-28T04:35:04.842Z"
+    },
+    {
+      "id": "prod-1787811842123",
+      "name": "Navy Blue Cuban Collar Shirt",
+      "slug": "navy-blue-cuban-collar-shirt-305",
+      "description": "",
+      "shortDescription": "100% Cotton | 120–150 GSM | Navy Blue with Light Vertical Stripes",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "",
+      "price": 0,
+      "sku": "FCF-5548",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787891447516-120503639.jpg"
+      ],
+      "thumbnail": "/uploads/fcf-1787891447516-120503639.jpg",
+      "colors": [
+        "Deep Navy Blue"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "100% Cotton, Lightweight woven shirting",
+      "features": [
+        "Short sleeves for warm-weather styling",
+        "Button-front closure",
+        "Easy smart-casual styling"
+      ],
+      "tags": [
+        "menswear",
+        "favy-cravy"
+      ],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-08-27T06:24:02.123Z",
+      "updatedAt": "2026-08-28T04:35:28.621Z",
+      "salePrice": 490
+    },
+    {
+      "id": "prod-1",
+      "name": "Men’s Textured Short-Sleeve Knit Shirt",
+      "slug": "premium-oxford-full-sleeve-shirt",
+      "description": "Crafted from 100% long-staple Egyptian cotton with a durable Oxford basketweave. Tailored with a modern slim-regular taper, button-down collar, and mother-of-pearl buttons. Ideal for office sophistication or evening events in Dhaka.",
+      "shortDescription": "100% Cotton | Textured Knit | 190 GSM | Ivory Cream | Relaxed Fit | Breathable Summer Fabric.",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "Casual/Summer",
+      "price": 0,
+      "salePrice": 490,
+      "sku": "FCF-SH-006",
+      "stock": 2,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "stock": 1
+        }
+      ],
+      "images": [
+        "/uploads/fcf-1787892404146-611834407.png"
+      ],
+      "thumbnail": "/uploads/fcf-1787892404146-611834407.png",
+      "colors": [
+        "Ivory Cream / Off-White"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "100% Cotton Knit -Textured open-knit",
+      "features": [
+        "🌬️ Breathable textured knit construction",
+        "☀️ Summer-friendly lightweight feel",
+        "🧶 Soft cotton hand-feel",
+        "✨ Subtle chevron texture for a premium visual effect",
+        "👕 Relaxed contemporary silhouette",
+        "🏖️ Resort/casual styling",
+        "💨 Better airflow through the open-texture knit",
+        "🤍 Versatile ivory-cream color",
+        "🧳 Ideal for vacations, weekends and summer outings"
+      ],
+      "tags": [
+        "shirt",
+        "oxford",
+        "formal",
+        "office",
+        "casual",
+        "bestseller"
+      ],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": true,
+      "published": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "createdAt": "2026-08-10T10:00:00Z",
+      "updatedAt": "2026-08-28T04:46:55.881Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Heavyweight Minimalist Crew Tee (240 GSM)",
+      "slug": "heavyweight-minimalist-crew-tee-240-gsm",
+      "description": "The definitive everyday tee. Cut from heavyweight 240 GSM organic combed cotton with drop-shoulder silhouette, tight ribbed collar that never sags, and zero external branding. Engineered for all-day comfort and masculine structure.",
+      "shortDescription": "Heavyweight 240 GSM drop-shoulder boxy tee.",
+      "category": "T-Shirts",
+      "categorySlug": "t-shirts",
+      "subcategory": "Streetwear & Basics",
+      "price": 1190,
+      "salePrice": 890,
+      "discountPercentage": 25,
+      "sku": "FCF-TS-002",
+      "stock": 45,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 12
+        },
+        {
+          "size": "L",
+          "stock": 11
+        },
+        {
+          "size": "XL",
+          "stock": 11
+        },
+        {
+          "size": "XXL",
+          "stock": 11
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Onyx Black",
+        "Off-White",
+        "Olive Moss",
+        "Slate Grey"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "100% Combed Compact Cotton (240 GSM)",
+      "features": [
+        "High-density 1x1 rib knit collar with anti-stretch tape",
+        "Pre-shrunk fabric to prevent post-wash shrinkage",
+        "Side-seamed construction for structural integrity"
+      ],
+      "tags": [
+        "t-shirt",
+        "oversized",
+        "heavyweight",
+        "streetwear",
+        "basics"
+      ],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": true,
+      "published": true,
+      "rating": 4.8,
+      "reviewCount": 52,
+      "createdAt": "2026-08-12T09:00:00Z",
+      "updatedAt": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Mercerized Knit Polo Shirt",
+      "slug": "mercerized-knit-polo-shirt",
+      "description": "Elevate your casual wardrobe with our signature Mercerized cotton polo. The specialized double-mercerizing process creates an ultra-smooth handfeel with a subtle sheen, clean open collar, and tailored sleeve cuffs.",
+      "shortDescription": "Signature Mercerized cotton polo with clean collar design.",
+      "category": "Polo Shirts",
+      "categorySlug": "polo-shirts",
+      "subcategory": "Smart Casual",
+      "price": 1690,
+      "salePrice": 1390,
+      "discountPercentage": 17,
+      "sku": "FCF-PL-003",
+      "stock": 19,
+      "variants": [
+        {
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "size": "XL",
+          "stock": 4
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Midnight Navy",
+        "Pure Black",
+        "Burgundy",
+        "Forest Green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "100% Double-Mercerized Cotton (210 GSM)",
+      "features": [
+        "Seamless knitted collar that lays flat without curling",
+        "Tone-on-tone matte buttons",
+        "Breathable, moisture-wicking structure"
+      ],
+      "tags": [
+        "polo",
+        "mercerized",
+        "smart-casual",
+        "luxury"
+      ],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 29,
+      "createdAt": "2026-08-05T14:30:00Z",
+      "updatedAt": "2026-08-18T10:00:00Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Tailored Ankle-Crop Pleated Trousers",
+      "slug": "tailored-ankle-crop-pleated-trousers",
+      "description": "Modern sartorial mastery. Features single reverse pleats, side-adjusters for a belt-free clean waistline, and an effortless tapered leg cropped right above the footwear. Blended with poly-viscose and elastane for crease resistance.",
+      "shortDescription": "Single-pleat tailored trousers with side adjusters.",
+      "category": "Pants",
+      "categorySlug": "pants",
+      "subcategory": "Formal & Smart Casual",
+      "price": 2490,
+      "salePrice": 1990,
+      "discountPercentage": 20,
+      "sku": "FCF-PT-004",
+      "stock": 14,
+      "variants": [
+        {
+          "size": "30",
+          "stock": 5
+        },
+        {
+          "size": "32",
+          "stock": 3
+        },
+        {
+          "size": "34",
+          "stock": 3
+        },
+        {
+          "size": "36",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Charcoal Grey",
+        "Deep Navy",
+        "Mocha Brown",
+        "Black"
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "68% Poly, 28% Viscose, 4% Spandex (320 GSM)",
+      "features": [
+        "Traditional stainless steel side-tab adjusters",
+        "French fly with inner button closure for clean drape",
+        "Deep functional slant pockets"
+      ],
+      "tags": [
+        "pants",
+        "trousers",
+        "pleated",
+        "tailored",
+        "smart-casual"
+      ],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": false,
+      "published": true,
+      "rating": 4.9,
+      "reviewCount": 21,
+      "createdAt": "2026-08-15T11:00:00Z",
+      "updatedAt": "2026-08-21T16:00:00Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Raw Indigo Tapered Selvedge Jeans",
+      "slug": "raw-indigo-tapered-selvedge-jeans",
+      "description": "Constructed from 13.5 oz authentic shuttle-loom selvedge denim with classic red-line edge. Sanforized raw indigo that breaks in uniquely to your body over time. Custom hardware and durable pocket bags.",
+      "shortDescription": "13.5 oz authentic selvedge denim with slim-tapered cut.",
+      "category": "Jeans",
+      "categorySlug": "jeans",
+      "subcategory": "Denim",
+      "price": 2790,
+      "salePrice": 2290,
+      "discountPercentage": 18,
+      "sku": "FCF-JN-005",
+      "stock": 12,
+      "variants": [
+        {
+          "size": "30",
+          "stock": 3
+        },
+        {
+          "size": "32",
+          "stock": 3
+        },
+        {
+          "size": "34",
+          "stock": 3
+        },
+        {
+          "size": "36",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Raw Indigo",
+        "Washed Vintage Grey",
+        "Jet Black"
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "98% Cotton, 2% Elastane Selvedge Denim (13.5 oz)",
+      "features": [
+        "Signature red-line selvedge visible at cuff",
+        "Solid brass zipper fly with heavy-duty donut button",
+        "Chain-stitched waistband and leg hems"
+      ],
+      "tags": [
+        "jeans",
+        "selvedge",
+        "denim",
+        "indigo"
+      ],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": true,
+      "published": true,
+      "rating": 4.7,
+      "reviewCount": 31,
+      "createdAt": "2026-08-08T08:00:00Z",
+      "updatedAt": "2026-08-19T13:00:00Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Heavy Cotton Twill Utility Overshirt",
+      "slug": "heavy-cotton-twill-utility-overshirt",
+      "description": "The ultimate outerwear-meets-shirt hybrid. Engineered from rugged 340 GSM cotton twill, featuring twin oversized chest flap pockets, reinforced elbow patches, and relaxed layering cut designed to wear over tees or hoodies.",
+      "shortDescription": "340 GSM heavy twill overshirt with utility chest pockets.",
+      "category": "Overshirts",
+      "categorySlug": "overshirts",
+      "subcategory": "Outerwear & Layering",
+      "price": 2690,
+      "salePrice": 2190,
+      "discountPercentage": 19,
+      "sku": "FCF-OS-006",
+      "stock": 16,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 6
+        },
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "XL",
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Khaki Tan",
+        "Military Olive",
+        "Washed Black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "100% Heavyweight Cotton Twill (340 GSM)",
+      "features": [
+        "Dual bellowed chest pockets with snap closures",
+        "Heavy-gauge YKK front zip and button placket",
+        "Adjustable barrel cuffs"
+      ],
+      "tags": [
+        "overshirt",
+        "shacket",
+        "jacket",
+        "utility",
+        "layering"
+      ],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": false,
+      "published": true,
+      "rating": 4.9,
+      "reviewCount": 16,
+      "createdAt": "2026-08-16T15:00:00Z",
+      "updatedAt": "2026-08-22T11:00:00Z"
+    },
+    {
+      "id": "prod-7",
+      "name": "Textured Waffle Knit Long-Sleeve",
+      "slug": "textured-waffle-knit-long-sleeve",
+      "description": "Designed for effortless depth and texture. Rich waffle grid knit with a relaxed crew neck and ribbed cuffs. Provides subtle thermal regulation for indoor air conditioning and breezy Dhaka evenings.",
+      "shortDescription": "Thermal waffle-weave knit crewneck with rib cuffs.",
+      "category": "T-Shirts",
+      "categorySlug": "t-shirts",
+      "subcategory": "Long Sleeve",
+      "price": 1390,
+      "salePrice": 1090,
+      "discountPercentage": 22,
+      "sku": "FCF-LS-007",
+      "stock": 20,
+      "variants": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "XL",
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Oatmeal Heather",
+        "Charcoal",
+        "Washed Olive"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "100% Breathable Cotton Waffle (260 GSM)",
+      "features": [
+        "Geometric micro-waffle texture for luxury drape",
+        "Double-stitched hem and durable cuff retention"
+      ],
+      "tags": [
+        "t-shirt",
+        "long-sleeve",
+        "waffle",
+        "textured"
+      ],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "published": true,
+      "rating": 4.8,
+      "reviewCount": 14,
+      "createdAt": "2026-08-14T10:00:00Z",
+      "updatedAt": "2026-08-20T08:00:00Z"
+    },
+    {
+      "id": "prod-8",
+      "name": "Men’s Short-Sleeve Geometric Resort Shirt",
+      "slug": "relaxed-fit-linen-blend-summer-shirt",
+      "description": "Ultra-breathable linen and cotton blend designed specifically for the sub-tropical Bangladesh climate. Features a camp Cuban collar, straight hem with side vents, and clean minimalist silhouette.",
+      "shortDescription": "100% Cotton • 130–140 GSM • Light Grey & White • Geometric Pattern • Breathable Summer Fabric • Relaxed Fit • Cuban Collar",
+      "category": "Short Sleeve",
+      "categorySlug": "short-sleeve",
+      "subcategory": "Casual / Resort",
+      "price": 1890,
+      "salePrice": 1490,
+      "discountPercentage": 21,
+      "sku": "FCF-LN-008",
+      "stock": 18,
+      "variants": [
+        {
+          "size": "M",
+          "stock": 6
+        },
+        {
+          "size": "L",
+          "stock": 6
+        },
+        {
+          "size": "XL",
+          "stock": 6
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1000&q=80",
+      "colors": [
+        "Light Grey / Stone Grey"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "100% Cotton (recommended) VERIFIED WITH SUPPLIER)",
+      "features": [
+        "Summer-friendly lightweight construction",
+        "Breathable fabric for warm and humid weather",
+        "Soft, comfortable hand feel",
+        "Eye-catching geometric vertical pattern",
+        "Modern Cuban/resort collar",
+        "Relaxed contemporary silhouette",
+        "Short sleeves for improved airflow",
+        "Button-front closure",
+        "Lightweight drape without looking overly thin",
+        "Easy to style with white, cream, beige or khaki trousers",
+        "Suitable for vacations, resort wear, brunches, casual outings and evening events"
+      ],
+      "tags": [
+        "shirt",
+        "linen",
+        "summer",
+        "cuban-collar",
+        "bestseller"
+      ],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "published": true,
+      "rating": 5,
+      "reviewCount": 44,
+      "createdAt": "2026-08-01T12:00:00Z",
+      "updatedAt": "2026-08-27T22:58:44.733Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-2",
+      "name": "T-Shirts",
+      "slug": "t-shirts",
+      "description": "Heavyweight 240+ GSM combed cotton tees with minimalist silhouette.",
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+      "order": 2,
+      "featured": true
+    },
+    {
+      "id": "cat-6",
+      "name": "Overshirts",
+      "slug": "overshirts",
+      "description": "Heavy twill shackets, corduroy jackets, and modular layering pieces.",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+      "order": 6,
+      "featured": true
+    },
+    {
+      "id": "cat-7",
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Genuine leather belts, minimalist wallets, and essential accents.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+      "order": 7,
+      "featured": false
+    },
+    {
+      "id": "cat-1787810782699",
+      "name": "Short Sleeve",
+      "slug": "short-sleeve",
+      "description": "Meet the Shirt that Belongs in every S𝒖𝒎𝒎𝒆𝒓 S𝒖𝒊𝒕𝒄𝒂𝒔𝒆. \n\nLightweight Fabric, Relaxed Fit & Timeless Style, Crafted to keep you Cool from Sunrise adventures to Sunset dinners. ✈️☀️\n\nBecause Great Vacations, Deserve Great Outfits.\n\n#VacationMood #SummerShirts #ResortStyle #MensWear #BeachReady #TravelInStyle #SummerFashion #HalfSleeveShirts #FavyCravyFits #Mymensingh_Division",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=600&q=80",
+      "order": 8,
+      "featured": false
+    },
+    {
+      "id": "cat-1787892692167",
+      "name": "OverSized T-Shirt Drop-1",
+      "slug": "oversized-t-shirt-drop-1",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=600&q=80",
+      "order": 5,
+      "featured": false
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "FCF-2026-1001",
+      "customerName": "Siam Chowdhury",
+      "phone": "01711223344",
+      "email": "siam.chowdhury@gmail.com",
+      "address": "House 42, Road 7, Dhanmondi",
+      "district": "Dhaka",
+      "thanaArea": "Dhanmondi",
+      "postalCode": "1205",
+      "customerNotes": "Please call before delivery.",
+      "adminNotes": "Payment verified via bKash statement.",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Premium Oxford Full-Sleeve Shirt",
+          "price": 1490,
+          "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+          "selectedColor": "Classic White",
+          "selectedSize": "L",
+          "quantity": 1,
+          "sku": "FCF-SH-001",
+          "total": 1490
+        },
+        {
+          "productId": "prod-3",
+          "name": "Mercerized Knit Polo Shirt",
+          "price": 1390,
+          "image": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&w=800&q=80",
+          "selectedColor": "Midnight Navy",
+          "selectedSize": "L",
+          "quantity": 1,
+          "sku": "FCF-PL-003",
+          "total": 1390
+        }
+      ],
+      "subtotal": 2880,
+      "deliveryCharge": 0,
+      "discount": 0,
+      "total": 2880,
+      "paymentMethod": "bkash",
+      "paymentStatus": "verified",
+      "senderPhone": "01711223344",
+      "transactionId": "BK7894561230",
+      "orderStatus": "Cancelled",
+      "createdAt": "2026-08-21T11:20:00Z",
+      "updatedAt": "2026-08-28T04:12:00.047Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "FCF-2026-1002",
+      "customerName": "Farhan Kabir",
+      "phone": "01819887766",
+      "email": "farhan.kabir@yahoo.com",
+      "address": "GEC Circle, Nasirabad",
+      "district": "Chittagong",
+      "thanaArea": "Khulshi",
+      "items": [
+        {
+          "productId": "prod-5",
+          "name": "Raw Indigo Tapered Selvedge Jeans",
+          "price": 2290,
+          "image": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80",
+          "selectedColor": "Raw Indigo",
+          "selectedSize": "32",
+          "quantity": 1,
+          "sku": "FCF-JN-005",
+          "total": 2290
+        }
+      ],
+      "subtotal": 2290,
+      "deliveryCharge": 0,
+      "discount": 0,
+      "total": 2290,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Cancelled",
+      "createdAt": "2026-08-22T15:45:00Z",
+      "updatedAt": "2026-08-28T04:11:57.346Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-1",
+      "name": "Siam Chowdhury",
+      "email": "siam.chowdhury@gmail.com",
+      "phone": "01711223344",
+      "address": "House 42, Road 7, Dhanmondi",
+      "district": "Dhaka",
+      "thanaArea": "Dhanmondi",
+      "totalOrders": 2,
+      "totalSpent": 4880,
+      "createdAt": "2026-08-10T10:00:00Z"
+    },
+    {
+      "id": "cust-2",
+      "name": "Farhan Kabir",
+      "email": "farhan.kabir@yahoo.com",
+      "phone": "01819887766",
+      "address": "GEC Circle, Nasirabad",
+      "district": "Chittagong",
+      "thanaArea": "Khulshi",
+      "totalOrders": 1,
+      "totalSpent": 2290,
+      "createdAt": "2026-08-15T12:30:00Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin-1",
+      "username": "mrkbd",
+      "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+      "name": "Master Admin",
+      "role": "superadmin",
+      "mustChangePassword": false
+    }
+  ],
+  "settings": {
+    "storeName": "Favy Cravy Fits 2.0",
+    "tagline": "Wear Distinction | Own the Moment",
+    "brandStatement": "Modern. Minimal. Magnetic. Contemporary menswear engineered with precision for the modern Bangladeshi man.",
+    "phone": "01843667400",
+    "whatsapp": "01843667400",
+    "email": "support@favycravyfits.com",
+    "address": "Road 11, Block D, Banani",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "bkashNumber": "01843667400",
+    "nagadNumber": "01843667400",
+    "enableCod": true,
+    "freeDeliveryEnabled": true,
+    "freeDeliveryThreshold": 0,
+    "standardDeliveryFee": 0,
+    "dhakaDeliveryFee": 0,
+    "outsideDhakaDeliveryFee": 0,
+    "facebookUrl": "https://facebook.com/favycravyfits",
+    "instagramUrl": "https://instagram.com/favycravyfits",
+    "currencySymbol": "৳",
+    "currencyCode": "BDT"
+  },
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "customerName": "Tanvir Ahmed",
+      "rating": 5,
+      "comment": "Exceptional Oxford weave quality! The fit across shoulders is sharp and the fabric breathes well in Dhaka heat.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-08-18T14:30:00Z"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-1",
+      "customerName": "Shakil Hasan",
+      "rating": 5,
+      "comment": "Great color and stitching. Truly feels premium compared to local fast fashion brands.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-08-19T09:15:00Z"
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-2",
+      "customerName": "Mahmudul Karim",
+      "rating": 5,
+      "comment": "The 240 GSM drop shoulder tee is incredible. Does not shrink after washing. Pure minimal aesthetic!",
+      "verifiedPurchase": true,
+      "createdAt": "2026-08-20T11:45:00Z"
+    },
+    {
+      "id": "rev-4",
+      "productId": "prod-4",
+      "customerName": "Rafid Rahman",
+      "rating": 5,
+      "comment": "The side adjusters on the trousers are a game changer. Super clean waistband drape without belts.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-08-21T16:20:00Z"
+    }
+  ]
+}

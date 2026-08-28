@@ -1,0 +1,6 @@
+{
+  "name": "Favy Cravy Fits 2.0",
+  "description": "Modern. Minimal. Magnetic. Premium menswear e-commerce store for Bangladesh with bKash, Nagad, Cash on Delivery, dynamic catalog, customer orders, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
